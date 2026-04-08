@@ -1,0 +1,18 @@
+{
+  "wecom": {
+    "enable": true,
+    "send_key": ""
+  },
+  "email": {
+    "enable": false,
+    "sender": "",
+    "password": "",
+    "receiver": ""
+  },
+  "llm": {
+    "enable": false,
+    "api_key": "",
+    "base_url": "",
+    "model": ""
+  }
+}
