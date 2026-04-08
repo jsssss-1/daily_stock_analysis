@@ -1,18 +1,15 @@
-{{
+{
   "wecom": {
     "enable": true,
     "send_key": "SCT335084TuaHpRgrdBelRhFFJInp9841R"
   },
+  "pushplus": {
+    "enable": false
+  },
   "email": {
-    "enable": false,
-    "sender": "",
-    "password": "",
-    "receiver": ""
+    "enable": false
   },
   "llm": {
-    "enable": false,
-    "api_key": "",
-    "base_url": "",
-    "model": ""
+    "enable": false
   }
 }
